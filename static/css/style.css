@@ -1,0 +1,150 @@
+.form-control {
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+}
+
+#transcriptArea {
+    white-space: pre-wrap;
+    min-height: 150px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+#highlightResult {
+    white-space: pre-wrap;
+    line-height: 2;
+    padding: 15px;
+}
+
+#highlightResult .badge {
+    margin: 0 2px;
+    padding: 5px 8px;
+    font-weight: normal;
+    rd {
+        white-space: normal;
+        0px;
+    }
+    .1);
+}
+
+.badge {
+    .card {}
+    white-space: pre-wrap;
+    margin-top: 10px;
+    .btn {
+        margin: 2px;
+    }
+    margin-right: 5px;
+    .btn {}
+    box-shadow: 0 2px 4px rgba(0,
+    0,
+    0,
+    0.1);
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+
+.alert {
+    #recordingStatus {
+        color: #dc3545;
+        font-weight: bold;
+        animation: blink 1s infinite;
+    }
+    @keyframes blink {
+        50% {
+            opacity: 0.5;
+        }
+    }
+    .gap-2 {
+        gap: 0.5rem;
+    }
+}
+
+.alert button.btn-sm {
+    padding: 0.25rem 0.5rem;
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+.float-end {
+    float: right;
+}
+
+.result-item {
+    margin: 10px 0;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#result {
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.results-container {
+    max-height: 500px;
+    overflow-y: auto;
+    padding-right: 10px;
+    margin-bottom: 15px;
+}
+
+.result-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 15px;
+}
+
+.result-timestamp {
+    font-size: 0.8em;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.results-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.results-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.results-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.results-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.btn-group {
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+.btn-group .btn {
+    border-radius: 0;
+}
+
+.btn-group .btn:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.btn-group .btn:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.card-body .btn {
+    margin-right: 10px;
+}
+
+.btn .fas {
+    margin-right: 5px;
+}
